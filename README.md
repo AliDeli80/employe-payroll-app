@@ -1,6 +1,6 @@
 # Employee Payroll App
 
-A responsive employee payroll management application built with React. It features routing, context API for state management, styled-components for styling, and a simple login system with validation. The app includes multiple sections such as Home, About, Contact, and Personal, with a secure admin login.
+A responsive employee payroll management application built with React based on udemy Course. It features routing, context API for state management, styled-components for styling, and a simple login system with validation. The app includes multiple sections such as Home, About, Contact, and Personal, with a secure admin login.
 
 ---
 
