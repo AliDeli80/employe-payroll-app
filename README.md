@@ -63,7 +63,7 @@ Open http://localhost:3000 to view the app in your browser.
 - Feel free to extend with features like employee editing, deleting, adding, etc.
 
 ## License
-
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or contributions, please open an issue or pull request.
